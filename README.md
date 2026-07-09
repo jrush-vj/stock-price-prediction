@@ -1,3 +1,4 @@
+[CORIZO Machine Learning  - Minor Project | June 2026]
 # Stock Price Prediction using LSTM
 
 A time-series forecasting system that predicts stock closing prices using an LSTM neural network, benchmarked against a Linear Regression baseline.
