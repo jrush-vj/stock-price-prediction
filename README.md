@@ -14,6 +14,11 @@ Stock price forecasting is a challenging task due to the volatile, non-linear, a
 - Compare performance against a classical Linear Regression baseline.
 - Visualize predicted vs. actual price trends.
 
+## RESULTS 
+![Prediction Plot](AAPL_prediction.png)
+
+The LSTM closely tracks the actual closing price trend, outperforming the Linear Regression baseline on RMSE and MAPE.
+
 ## Dataset
 
 Historical OHLCV (Open, High, Low, Close, Volume) data is fetched live using the `yfinance` API (Yahoo Finance), eliminating dependency on static Kaggle datasets and ensuring the model can be tested on any ticker and date range.
