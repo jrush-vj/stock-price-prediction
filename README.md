@@ -115,7 +115,3 @@ python app.py --ticker AAPL --start 2015-01-01 --end 2025-01-01
 - Multi-step (n-day ahead) forecasting instead of single-step.
 - Hyperparameter tuning via grid/random search or Optuna.
 - Deploy as a REST API or interactive dashboard (Streamlit/Gradio).
-
-## Author
-
-JerushVijay — B.E. Artificial Intelligence & Machine Learning, REVA University
